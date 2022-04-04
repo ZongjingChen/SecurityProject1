@@ -1,6 +1,6 @@
 # SecurityProject1
 Security project1
 
-The project 1 code for CSC430 Security
+CSC430 Security project 1
 
 Author: Tri Nguyen, Seok Jun Hong, Zongjing Chen
